@@ -1,13 +1,13 @@
 # jonas-schmedtmann-html-css-course
 <p>This is the place where I put all the learning file of HTML &amp; CSS course from Jonas Schmedtmann.</p>
-<p>This repository consists of 4 projects which train the basic of HTML & CSS</p>
-
-<p>The link of the course:</p>
-https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
-
-<p>The certificate of completion of this course:</p>
-
-
+<p>The repository consists of 4 projects which train the basic of HTML & CSS</p>
+<ul>
+  <li><p>Course title: Build Responsive Real-World Websites with HTML and CSS</p></li>
+  <li><p>The link of the course: <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">here</a></p></li>
+  <li><p>The certificate of completion of this course:</p>
+<img width="75%" src="https://github.com/syf107/learning-certificate/blob/main/udemy_jonas-schmedtmann_htm-css-course.jpg"/>
+    </li>
+</ul>
 <h1>The curriculum of the project:</h1>
 <ol>
   <li>HTML Fundamentals</li>
@@ -19,4 +19,4 @@ https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-
   <li>Final Projects: Omnifood - Responsive Web Design</li>
   <li>Final Projects: Omnifood - Effects, Optimization, and Deployment</li>
 </ol>
-<p>You can see the final result of deployed final project <a href="https://omnifood-syarief.netlify.app/" target="_blank">here</a></p>
+<p>You can see the result of deployed <a href="https://omnifood-syarief.netlify.app/" target="_blank">final project</a>.</p>
